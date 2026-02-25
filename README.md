@@ -5,7 +5,7 @@
 # Hi, I'm Charmi 🌿
 
 <a href="https://github.com/charms101">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=28&duration=2800&pause=1000&color=C9972A&center=true&vCenter=true&width=600&lines=I'm+a+writer+%F0%9F%96%8A%EF%B8%8F;I'm+a+developer+%F0%9F%92%BB;I'm+into+fintech+%F0%9F%92%B0;I'm+exploring+cybersecurity+%F0%9F%94%90;I'm+a+web+developer+%F0%9F%8C%90;I'm+Charmi+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=28&duration=2800&pause=1000&color=C9972A&center=true&vCenter=true&width=600&lines=I'm+a+FullStack+Developer+%F0%9F%96%8A%EF%B8%8F;I'm+a+Fintech+Enthusiast+%F0%9F%92%BB;I'm+Writer+%F0%9F%92%B0;I'm+exploring+cybersecurity+%F0%9F%94%90;I'm+Learning+AI+ML+%F0%9F%8C%90;I'm+Charmi+%E2%9C%A6" alt="Typing SVG" />
 </a>
 
 </div>
