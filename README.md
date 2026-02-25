@@ -54,41 +54,6 @@
 
 ---
 
-<style>
-.tech-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 30px;
-}
-
-.tech-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 14px;
-}
-
-.tech-badge {
-  transition: transform 0.5s ease, box-shadow 0.5s ease;
-  animation: floatSoft 8s ease-in-out infinite;
-  border-radius: 12px;
-}
-
-.tech-badge:hover {
-  transform: translateY(-5px) scale(1.04);
-  box-shadow: 0 6px 18px rgba(244, 143, 177, 0.45);
-}
-
-@keyframes floatSoft {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-3px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
----
-
 ## 🌸 Tech Stack
 
 <div class="tech-container">
