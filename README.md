@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1&height=120&section=header" width="100%"/>
 
-# Hi, I'm Charmi 🌿
+# Hi, I'm Charmi 🌸
 
 <a href="https://github.com/charms101">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=28&duration=2800&pause=1000&color=C9972A&center=true&vCenter=true&width=600&lines=I'm+a+FullStack+Developer+%F0%9F%96%8A%EF%B8%8F;I'm+a+Fintech+Enthusiast+%F0%9F%92%BB;I'm+Writer+%F0%9F%92%B0;I'm+exploring+cybersecurity+%F0%9F%94%90;I'm+Learning+AI+ML+%F0%9F%8C%90;I'm+Charmi+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=28&duration=2800&pause=1000&color=FFD54F&center=true&vCenter=true&width=600&lines=I'm+a+FullStack+Developer+%F0%9F%96%8A%EF%B8%8F;I'm+a+Fintech+Enthusiast+%F0%9F%92%BB;I'm+a+Writer+%F0%9F%92%AB;I'm+exploring+cybersecurity+%F0%9F%94%90;I'm+learning+AI+and+ML+%F0%9F%8C%90;I'm+Charmi+%E2%9C%A6" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,6 +13,7 @@
 ---
 
 <div align="center">
+
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀
@@ -44,13 +45,12 @@
 
 ---
 
-### 🌿 About Me
+### 🌸 About Me
 
-- 📖 Building **[Charmi's Diary](https://charms101.github.io/Blogpage/)** — a storybook-style personal blog
-- 💻 Studying **Web Development** · curious about **Fintech** & **Cybersecurity**
-- ✍️ I write personal essays and diary entries
-- 🎵 Making **[Mixtape](https://github.com/charms101/Mixtape)** — share songs with someone special
-- 🎓 Built an **[Academic Scheduling App](https://github.com/charms101/Academic-scheduling-desktop-app)** for tracking classes & exams
+- 🎓 Undergraduate Computer Science student at UIC  
+- 💻 Full-stack developer with a strong interest in fintech applications  
+- 🔐 Currently exploring cybersecurity and learning the fundamentals of AI and machine learning  
+- ✍️ I enjoy writing, reading books, and creating personal digital projects that blend creativity with technology  
 
 ---
 
@@ -73,10 +73,11 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-2d5a27?style=for-the-badge&logo=gmail&logoColor=c9972a)](mailto:sutariyacharmi74@gmail.com)
-[![Blog](https://img.shields.io/badge/Charmi's_Diary-2d5a27?style=for-the-badge&logo=bookstack&logoColor=c9972a)](https://charms101.github.io/Blogpage/)
+[![Email](https://img.shields.io/badge/Gmail-f48fb1?style=for-the-badge&logo=gmail&logoColor=ffd54f)](mailto:sutariyacharmi74@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=ffd54f)](https://www.linkedin.com/in/charmi-sutariya-9585932ab/)
 
 </div>
+
 
 ---
 
@@ -91,8 +92,8 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=charms101&color=2d5a27&style=flat&label=visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=charms101&color=f48fb1&style=flat&label=visitors" alt="visitors"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1&height=100&section=footer" width="100%"/>
