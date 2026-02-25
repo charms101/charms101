@@ -54,16 +54,101 @@
 
 ---
 
-### 🛠️ Languages & Tools
+<style>
+.tech-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
 
-<div align="center">
+.tech-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
 
-![HTML](https://img.shields.io/badge/HTML-2d5a27?style=for-the-badge&logo=html5&logoColor=c9972a)
-![CSS](https://img.shields.io/badge/CSS-2d5a27?style=for-the-badge&logo=css3&logoColor=c9972a)
-![JavaScript](https://img.shields.io/badge/JavaScript-2d5a27?style=for-the-badge&logo=javascript&logoColor=c9972a)
-![Python](https://img.shields.io/badge/Python-2d5a27?style=for-the-badge&logo=python&logoColor=c9972a)
-![Git](https://img.shields.io/badge/Git-2d5a27?style=for-the-badge&logo=git&logoColor=c9972a)
-![GitHub](https://img.shields.io/badge/GitHub-2d5a27?style=for-the-badge&logo=github&logoColor=c9972a)
+.tech-badge {
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  animation: floatSoft 8s ease-in-out infinite;
+  border-radius: 12px;
+}
+
+.tech-badge:hover {
+  transform: translateY(-5px) scale(1.04);
+  box-shadow: 0 6px 18px rgba(244, 143, 177, 0.45);
+}
+
+@keyframes floatSoft {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+  100% { transform: translateY(0px); }
+}
+</style>
+
+---
+
+## 🌸 Tech Stack
+
+<div class="tech-container">
+
+### ⚙️ Backend
+
+<div class="tech-row">
+
+<img class="tech-badge" src="https://img.shields.io/badge/Python-f48fb1?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Java-f48fb1?style=for-the-badge&logo=openjdk&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/C-f48fb1?style=for-the-badge&logo=c&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/C++-f48fb1?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/PHP-f48fb1?style=for-the-badge&logo=php&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/JavaScript-f48fb1?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/MySQL-f48fb1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+
+</div>
+
+### 🎨 Frontend
+
+<div class="tech-row">
+
+<img class="tech-badge" src="https://img.shields.io/badge/React-f48fb1?style=for-the-badge&logo=react&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Angular-f48fb1?style=for-the-badge&logo=angular&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/HTML5-f48fb1?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/CSS3-f48fb1?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+
+</div>
+
+### 🌷 Libraries & Frameworks
+
+<div class="tech-row">
+
+<img class="tech-badge" src="https://img.shields.io/badge/Spring%20Boot-f48fb1?style=for-the-badge&logo=springboot&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Hibernate-f48fb1?style=for-the-badge&logo=hibernate&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Flask-f48fb1?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Pandas-f48fb1?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Polars-f48fb1?style=for-the-badge&logo=python&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/JUnit-f48fb1?style=for-the-badge&logo=junit5&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Selenium-f48fb1?style=for-the-badge&logo=selenium&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Mockito-f48fb1?style=for-the-badge&logo=java&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/PHPMailer-f48fb1?style=for-the-badge&logo=php&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/JavaFX-f48fb1?style=for-the-badge&logo=java&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/GPhoto2-f48fb1?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/FFmpeg-f48fb1?style=for-the-badge&logo=ffmpeg&logoColor=ffffff"/>
+
+</div>
+
+### 🌼 Tools & Technologies
+
+<div class="tech-row">
+
+<img class="tech-badge" src="https://img.shields.io/badge/Git-f48fb1?style=for-the-badge&logo=git&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Unix-f48fb1?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Vim-f48fb1?style=for-the-badge&logo=vim&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/GDB-f48fb1?style=for-the-badge&logo=gnu&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Raspberry%20Pi-f48fb1?style=for-the-badge&logo=raspberrypi&logoColor=ffffff"/>
+<img class="tech-badge" src="https://img.shields.io/badge/Figma-f48fb1?style=for-the-badge&logo=figma&logoColor=ffffff"/>
+
+</div>
 
 </div>
 
